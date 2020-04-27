@@ -1,4 +1,20 @@
 # Diferencias entre hello.cpp y hello.c 
+
+**hello.cpp** 
+
+#include <iostream>  
+using namespace std;  
+int main(){  
+	cout<<"Hello, World!"<<endl;  
+}  
+
+**hello.c**  
+
+#include <stdio.h>  
+int main (void){  
+	printf ("Hello, World!");  
+}
+  
   
 || Léxico | Sintaxis | Semántica |
 |--|--|--|--|  
