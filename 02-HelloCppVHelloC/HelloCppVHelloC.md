@@ -4,8 +4,8 @@ Obs: Las diferencias estarán escritas en **"negrita"**.
   
 **hello.cpp** 
 
-#include <iostream>  
-int main(){  
+#include <iostream>
+int main (){  
 	std::cout<<"Hello, World!";  
 }  
 
