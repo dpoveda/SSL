@@ -1,7 +1,9 @@
-/*Hello World
+/*File: hello.c  
+Hello World
 Poveda Daniela Andrea
 1678322
-12/04/20*/
+12/04/20  
+*/
 
 #include <stdio.h>
 
