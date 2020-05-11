@@ -1,6 +1,6 @@
-#Fases de la traducción y errores  
+# Fases de la traducción y errores  
 
-##hello2.c  
+## hello2.c  
 #include <stdio.h>  
 int/*medio*/main(void){  
 int i=42;  
