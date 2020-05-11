@@ -7,4 +7,13 @@ int i=42;
 prontf("La respuesta es %d\n");  
   
 ### Resultado u error obtenidos
-error: Se esperaba otro tipo de declaración en linea 4 prontf
+Resultado: Se interpreto la directiva #include <stdio.h> y se eliminaron los comentarios.  
+  
+## hello3.c  
+int printf(const char *s, ...);  
+int main(void){  
+int i=42;  
+prontf("La respuesta es %d\n");  
+  
+### Resultado u error obtenidos  
+
