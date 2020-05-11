@@ -7,7 +7,7 @@ int i=42;
 prontf("La respuesta es %d\n");  
   
 ### Resultado u error obtenidos
-**Resultado:** Se interpreto la directiva #include <stdio.h> y se eliminaron los comentarios.  
+**Generar hello2.i:** Se interpreto la directiva #include <stdio.h> y se eliminaron los comentarios.  
   
 ## hello3.c  
 int printf(const char *s, ...);  
