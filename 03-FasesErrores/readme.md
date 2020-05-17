@@ -40,14 +40,12 @@
 **Generar hello4.s, no ensamblar y investigarlo:** Para generar hello4.s se agrego la llave final faltante de hello3.c. Al hechar un vistazo rápido se puede ver que se obtuvieron intrucciones en codigo assembler.  
 **Ensamblar hello4.s en hello4.o, no vincular:** Se convirtió el código de ensamblaje en código de nivel de máquina (binario).  
 **Vincular hello4.o con la biblioteca estándar y generar el ejecutable:** No puede generar el ejecutable pues en esta etapa se realizan todos los enlaces de llamadas a funciones con sus definiciones (Linker sabe dónde se implementan todas estas funciones) por lo tanto, sigue sin reconocer a la función 'prontf'.
-
-    hello4.c: In function 'main':  
-    hello4.c:11:1: warning: implicit declaration of function 'prontf'; did you mean 'printf'? [-Wimplicit-function-declaration]  
-    prontf("La respuesta es %d\n");  
-    ^~~~~~  
-    printf  
+ 
     hello4.o:hello4.c:(.text+0x1c): referencia a `prontf' sin definir  
     collect2.exe: error: ld returned 1 exit status
+  
+## hello5.c 
+
 
 
     
