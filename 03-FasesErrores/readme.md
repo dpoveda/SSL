@@ -45,7 +45,36 @@
     collect2.exe: error: ld returned 1 exit status
   
 ## hello5.c 
+    int printf(const char *s, ...);  
+    int main(void){  
+    int i=42;  
+    printf("La respuesta es %d\n");  
+    }  
+  
+### Resultado u error obtenidos  
+**Corregir en hello5.c, generar el ejecutable y analizarlo:** Se corrigió la funcion 'prontf' a 'printf' y de esta manera se pudo generar un ejecutable. Se espera que muestre por pantalla "La respuesta es 42" pero sin embargo, se muestra un numero diferente pues no de indico en 'printf' el segundo argumento que se pedia: i. 
 
-
-
+    La respuesta es 10490752  
     
+## hello6.c 
+    int printf(const char *s, ...);  
+    int main(void){  
+    int i=42;  
+    printf("La respuesta es %d\n", i);  
+    }  
+  
+### Resultado u error obtenidos  
+**Corregir en hello6.c y empezar de nuevo:** Este problema ya no tiene fallas pues nos devuelve por pantalla el número 42 que era lo que estabamos buscando.  
+
+    La respuesta es 42  
+  
+## hello7.c  
+    int main(void){
+    int i=42;
+    printf("La respuesta es %d\n", i);
+    }  
+    
+### Resultado u error obtenidos  
+**Explicar porqué funciona:** Funciona porque lo único que cambio con el archivo hello6.c, es la ausencia del prototipo de la función 'printf' el cual era redundante en el funcionamiento del programa. Se pudo hacer el proceso de compilación sin problemas logrando llegar al binario ejecutable.  
+
+
