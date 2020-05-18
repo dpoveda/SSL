@@ -76,5 +76,5 @@
     
 ### Resultado u error obtenidos  
 **Explicar porqué funciona:** Funciona porque lo único que cambio con el archivo hello6.c, es la ausencia del prototipo de la función 'printf' el cual era redundante en el funcionamiento del programa. Se pudo hacer el proceso de compilación sin problemas logrando llegar al binario ejecutable.  
-
+ 
 
