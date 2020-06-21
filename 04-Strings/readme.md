@@ -10,24 +10,24 @@ el desarrollo está basado en los ejercicios 20 y 21 del Capítulo #1 del Volume
 Investigue y construya, en LENGUAJE C, la función que realiza cada
 operación solicitada:
 ~~~
-* Ejercicio 20  
+* Ejercicio 20 *  
 a. Calcula la longitud de una cadena;  
 b. Determina si una cadena dada es vacía;  
 c. Concatena dos cadenas.  
-* Ejercicio 21  
+* Ejercicio 21 *  
 Construya un programa de testeo para cada función del ejercicio anterior.  
 ~~~  
 ## Tareas  
 * Parte I  
-a. Escribir el _AnálisisComparativo.md_ con la comparación de strings en C
+__a.__ Escribir el _AnálisisComparativo.md_ con la comparación de strings en C
 versus otro lenguaje de programación a elección.    
 
 * Parte II  
-a. Para cada operación, escribir en _Strings.md_ la especificación matemática
+__a.__ Para cada operación, escribir en _Strings.md_ la especificación matemática
 de la operación, con conjuntos de salida y de llegada, y con especificación
 de la operación.  
-b. Escribir el _Makefile_.  
-c. Por cada operación:  
+__b.__ Escribir el _Makefile_.  
+__c.__ Por cada operación:  
 i. Escribir las pruebas en _StringsTest.c_.  
 ii. Escribir los prototipos en _String.h_.  
 iii. Escribir en String.h comentarios con las precondiciones y
