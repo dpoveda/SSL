@@ -22,11 +22,11 @@ a. Escribir el _AnálisisComparativo.md_ con la comparación de strings en C
 versus otro lenguaje de programación a elección.    
 
 __2.__ Parte II  
-  a. Para cada operación, escribir en _Strings.md_ la especificación matemática
+(a) Para cada operación, escribir en _Strings.md_ la especificación matemática
 de la operación, con conjuntos de salida y de llegada, y con especificación
 de la operación.  
-  b. Escribir el _Makefile_.  
-  c. Por cada operación:  
+(b) Escribir el _Makefile_.  
+(c) Por cada operación:  
 i. Escribir las pruebas en _StringsTest.c_.  
 ii. Escribir los prototipos en _String.h_.  
 iii. Escribir en String.h comentarios con las precondiciones y
