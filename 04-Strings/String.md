@@ -2,7 +2,10 @@
 
 1. GetLength ó GetLongitud:  $\Sigma_{a}^{b} x^2 dx$
 $$\Sigma^*-> N_{0}/$$
-
+```
+$\left[\overline{X} -z_{1-\frac{\alpha}{2}} \frac{\sigma}{\sqrt{n}}, \overline{X}+z_{1-\frac{\alpha}{2}}\frac{\sigma}{\sqrt{n}}
+\right]$
+```
 3. Power ó Potenciar  
 
 4. Una operación a definir libremente.   
@@ -24,6 +27,6 @@ cual no debe incluir <string.h>. El programa que prueba la biblioteca, por
 supuesto, incluye a "String.h", pero sí puede incluir <string.h> para facilitar
 las comparaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjMyOTE5MTgsNzg2NTQ1MTI4LC00Mj
+eyJoaXN0b3J5IjpbLTExMzA3NzI3MzUsNzg2NTQ1MTI4LC00Mj
 U2NzEwODFdfQ==
 -->
