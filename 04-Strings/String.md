@@ -1,14 +1,14 @@
 # Especificación matemática de operaciones con strings 
 
 ## GetLength ó GetLongitud:  
-$$GetLength:\Sigma^*->\mathbb N_0/GetLength(s)=\left\{\begin{array} {r}
+$$GetLength:\Sigma^*\rightarrow\mathbb N_0/GetLength(s)=\left\{\begin{array} {r}
 					                               0,  && s=\lambda    \\
 				             1+GetLength(t),&& s=h.t&\land& h\in\Sigma\\
 													\end{array} \right. $$
   
   
 ## IsEmpty ó IsVacía  
-$$IsEmpty:\Sigma^*->B/IsEmpty(s)=\left\{\begin{array} {r}
+$$IsEmpty:\Sigma^*\rightarrow B/IsEmpty(s)=\left\{\begin{array} {r}
 					                               True,  && s=\lambda    \\
 				             False,&& s\neq\lambda\\
 													\end{array} \right. $$
@@ -18,7 +18,7 @@ $$IsEmpty:\Sigma^*->B/IsEmpty(s)=\left\{\begin{array} {r}
 ## Una operación a definir libremente.   
 
 $(a,b); ]a,b[; \{a,b\}$
-$\tilde{S}, \overline{x}, \overline{X}, \hat{p},\land$
+$\tilde{S}, \overline{x}, \overline{X}, \hat{p},\land$,\rightarrow
 $\left[\overline{X} -z_{1-\frac{\alpha}{2}} \frac{\sigma}{\sqrt{n}}, \overline{X}+z_{1-\frac{\alpha}{2}}\frac{\sigma}{\sqrt{n}} \right]$
 
 $\left[\overline{X} -z_{1-\frac{\alpha}{2}} \frac{\sigma}{\sqrt{n}}, \overline{X}+z_{1-\frac{\alpha}{2}}\frac{\sigma}{\sqrt{n}} \right\}$
@@ -60,7 +60,7 @@ cual no debe incluir <string.h>. El programa que prueba la biblioteca, por
 supuesto, incluye a "String.h", pero sí puede incluir <string.h> para facilitar
 las comparaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTY0MzQyOCw0MDc4OTQ3NTcsMTkxMz
-YyMTQwNiwtNzg2Mjk3NDI3LC0xMTI5NjE2NjE2LC0xMTMwNzcy
-NzM1LDc4NjU0NTEyOCwtNDI1NjcxMDgxXX0=
+eyJoaXN0b3J5IjpbNjc3MzAxODQ5LDQwNzg5NDc1NywxOTEzNj
+IxNDA2LC03ODYyOTc0MjcsLTExMjk2MTY2MTYsLTExMzA3NzI3
+MzUsNzg2NTQ1MTI4LC00MjU2NzEwODFdfQ==
 -->
