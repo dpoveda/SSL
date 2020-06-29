@@ -5,10 +5,13 @@ $$\Sigma^*->\mathbb N_0/\left\{\begin{array} {r}
 					                               0,  && s=\lambda    \\
 				             1+GetLength(t),&& s=h.t&\land& h\in\Sigma\\
 													\end{array} \right. $$
+  
+  
+2. IsEmpty ó IsVacía  
 
-2. 3. Power ó Potenciar  
+4. Power ó Potenciar  
 
-4. Una operación a definir libremente.   
+5. Una operación a definir libremente.   
 
 $(a,b); ]a,b[; \{a,b\}$
 $\tilde{S}, \overline{x}, \overline{X}, \hat{p},\land$
@@ -53,7 +56,7 @@ cual no debe incluir <string.h>. El programa que prueba la biblioteca, por
 supuesto, incluye a "String.h", pero sí puede incluir <string.h> para facilitar
 las comparaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjgxMTkzMCwtNzg2Mjk3NDI3LC0xMT
+eyJoaXN0b3J5IjpbMTkxMzYyMTQwNiwtNzg2Mjk3NDI3LC0xMT
 I5NjE2NjE2LC0xMTMwNzcyNzM1LDc4NjU0NTEyOCwtNDI1Njcx
 MDgxXX0=
 -->
