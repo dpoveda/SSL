@@ -26,65 +26,11 @@ $$Equal:\Sigma^*\mathbf{x}\Sigma^*\rightarrow B/Equal(s,n)=\left\{\begin{array} 
 													\end{array} \right. $$
 
 
-  
-  
-5. Parte II — Biblioteca para el Tipo String: Desarrollar una biblioteca con las
-siguientes operaciones de strings:
-a. GetLength ó GetLongitud
-b. IsEmpty ó IsVacía
-c. Power ó Potenciar
-d. Una operación a definir libremente.
-Notar que en vez de la operación concatenar que propone [MUCH2012] se
-debe desarrollar Power ó Potenciar que repite un string n veces.
-La parte pública de la biblioteca se desarrolla en el header "String.h", el
-cual no debe incluir <string.h>. El programa que prueba la biblioteca, por
-supuesto, incluye a "String.h", pero sí puede incluir <string.h> para facilitar
-las comparaciones.
-
-
-$$\mathbf{x} = \left[\begin{array}
-{rrr}
-1 & 2 & 3 \\
-4 & 5 & 6 \\
-7 & 8 & 9
-\end{array}\right]
-$$
-
-$(a,b); ]a,b[; \{a,b\}$
-$\tilde{S}, \overline{x}, \overline{X}, \hat{p},\land,\rightarrow$
-$\left[\overline{X} -z_{1-\frac{\alpha}{2}} \frac{\sigma}{\sqrt{n}}, \overline{X}+z_{1-\frac{\alpha}{2}}\frac{\sigma}{\sqrt{n}} \right]$
-
-$\left[\overline{X} -z_{1-\frac{\alpha}{2}} \frac{\sigma}{\sqrt{n}}, \overline{X}+z_{1-\frac{\alpha}{2}}\frac{\sigma}{\sqrt{n}} \right\}$
-
-
-$$\int_0^{2\pi} \sin x~dx$$
-
-$$\left(\right)\left]\right]$$
-$`H_{0}: \mu=\mu_0$` contra la alternativa bilateral `$H_1: \mu\neq\mu_0`$
-$\quad\forall n\in\mathbb N$
-$\mathbb N$
-$$a \pm b$$
-$$\begin{array}
-{r}
-1tjgj\\
- fdfd\\
-\end{array}
-$$
-
-$$X_i$$
-
-$A = \pi*r^{2}$ 
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
-$\Sigma_{a}^{b} x^2 dx$
-
-
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQzMjUxMDE5LDc5NjI3MTAyMCwyMDk4Nj
-k4MzgxLDEzMjAyNTUwMDcsMTU2OTQ5MjkyNSw0MDc4OTQ3NTcs
-MTkxMzYyMTQwNiwtNzg2Mjk3NDI3LC0xMTI5NjE2NjE2LC0xMT
-MwNzcyNzM1LDc4NjU0NTEyOCwtNDI1NjcxMDgxXX0=
+eyJoaXN0b3J5IjpbNzk3NTA0OTY0LDI0MzI1MTAxOSw3OTYyNz
+EwMjAsMjA5ODY5ODM4MSwxMzIwMjU1MDA3LDE1Njk0OTI5MjUs
+NDA3ODk0NzU3LDE5MTM2MjE0MDYsLTc4NjI5NzQyNywtMTEyOT
+YxNjYxNiwtMTEzMDc3MjczNSw3ODY1NDUxMjgsLTQyNTY3MTA4
+MV19
 -->
