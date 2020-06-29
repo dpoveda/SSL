@@ -2,8 +2,8 @@
 
 1. GetLength ó GetLongitud:  $\Sigma_{a}^{b} x^2 dx$
 $$\Sigma^*->\mathbb N_0/\{\begin{array} {r}
-					                          0,   s=\epsilon      \\
-				             1+GetLength(t), s=h.t and t\in\Sigma	 \\
+					                               0,  s=\epsilon      \\
+				             1+GetLength(t),&& s=h.t&  t\in\Sigma\\
 													\end{array}  $$
 
 $(a,b); ]a,b[; \{a,b\}$
@@ -46,6 +46,6 @@ cual no debe incluir <string.h>. El programa que prueba la biblioteca, por
 supuesto, incluye a "String.h", pero sí puede incluir <string.h> para facilitar
 las comparaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDU1MDU2ODMsLTExMjk2MTY2MTYsLT
-ExMzA3NzI3MzUsNzg2NTQ1MTI4LC00MjU2NzEwODFdfQ==
+eyJoaXN0b3J5IjpbNzg4MzQ0ODMyLC0xMTI5NjE2NjE2LC0xMT
+MwNzcyNzM1LDc4NjU0NTEyOCwtNDI1NjcxMDgxXX0=
 -->
