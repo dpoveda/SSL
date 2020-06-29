@@ -1,7 +1,7 @@
 # Especificación matemática de cada operación  
 
 1. GetLength ó GetLongitud:  
-![](C:/Users/lenovoINTEL/Desktop/ea.png)
+
 2. IsEmpty ó IsVacía  
 
 3. Power ó Potenciar  
