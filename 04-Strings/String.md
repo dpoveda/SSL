@@ -8,6 +8,10 @@ $$\Sigma^*->\mathbb N_0/\{\begin{array} {r}
 
 $(a,b); ]a,b[; \{a,b\}$
 $\left[\overline{X} -z_{1-\frac{\alpha}{2}} \frac{\sigma}{\sqrt{n}}, \overline{X}+z_{1-\frac{\alpha}{2}}\frac{\sigma}{\sqrt{n}} \right]$
+
+$\left[\overline{X} -z_{1-\frac{\alpha}{2}} \frac{\sigma}{\sqrt{n}}, \overline{X}+z_{1-\frac{\alpha}{2}}\frac{\sigma}{\sqrt{n}} \right\}$
+
+
 $$\left(\right)\left]\right]$$
 $`H_{0}: \mu=\mu_0$` contra la alternativa bilateral `$H_1: \mu\neq\mu_0`$
 $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$
@@ -46,6 +50,7 @@ cual no debe incluir <string.h>. El programa que prueba la biblioteca, por
 supuesto, incluye a "String.h", pero sí puede incluir <string.h> para facilitar
 las comparaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NjI5NzQyNywtMTEyOTYxNjYxNiwtMT
-EzMDc3MjczNSw3ODY1NDUxMjgsLTQyNTY3MTA4MV19
+eyJoaXN0b3J5IjpbMTA0MjI2MTQwLC03ODYyOTc0MjcsLTExMj
+k2MTY2MTYsLTExMzA3NzI3MzUsNzg2NTQ1MTI4LC00MjU2NzEw
+ODFdfQ==
 -->
