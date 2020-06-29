@@ -14,7 +14,7 @@ $$IsEmpty:\Sigma^*\rightarrow B/IsEmpty(s)=\left\{\begin{array} {r}
 													\end{array} \right. $$
 
 ## Power ó Potenciar  
-$$Power:\Sigma^*X\mathbb N_0\rightarrow\Sigma^*/Power(s,n)=\left\{\begin{array} {r}
+$$Power:\Sigma^*\mathbf{x}\mathbb N_0\rightarrow\Sigma^*/Power(s,n)=\left\{\begin{array} {r}
 					                               \lambda,  && s=\lambda&\lor&n=0   \\
 				             s . Power(s, n-1),&&n>0\\
 													\end{array} \right. $$
@@ -29,7 +29,7 @@ $$\mathbf{x} = \left[\begin{array}
 7 & 8 & 9
 \end{array}\right]
 $$
-```
+
 $(a,b); ]a,b[; \{a,b\}$
 $\tilde{S}, \overline{x}, \overline{X}, \hat{p},\land,\rightarrow$
 $\left[\overline{X} -z_{1-\frac{\alpha}{2}} \frac{\sigma}{\sqrt{n}}, \overline{X}+z_{1-\frac{\alpha}{2}}\frac{\sigma}{\sqrt{n}} \right]$
@@ -75,7 +75,7 @@ cual no debe incluir <string.h>. El programa que prueba la biblioteca, por
 supuesto, incluye a "String.h", pero sí puede incluir <string.h> para facilitar
 las comparaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3ODAxMjYzOSwxMzIwMjU1MDA3LDE1Nj
+eyJoaXN0b3J5IjpbMjA5ODY5ODM4MSwxMzIwMjU1MDA3LDE1Nj
 k0OTI5MjUsNDA3ODk0NzU3LDE5MTM2MjE0MDYsLTc4NjI5NzQy
 NywtMTEyOTYxNjYxNiwtMTEzMDc3MjczNSw3ODY1NDUxMjgsLT
 QyNTY3MTA4MV19
