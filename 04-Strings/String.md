@@ -20,7 +20,10 @@ $$Power:\Sigma^*\mathbf{x}\mathbb N_0\rightarrow\Sigma^*/Power(s,n)=\left\{\begi
 													\end{array} \right. $$
 
 ## Una operación a definir libremente.   
-
+$$Power:\Sigma^*\mathbf{x}\mathbb N_0\rightarrow B/Power(s,n)=\left\{\begin{array} {r}
+					                               \lambda,  && s=\lambda&\lor&n=0   \\
+				             s . Power(s, n-1),&&n>0\\
+													\end{array} \right. $$
 
 $$\mathbf{x} = \left[\begin{array}
 {rrr}
@@ -75,8 +78,8 @@ cual no debe incluir <string.h>. El programa que prueba la biblioteca, por
 supuesto, incluye a "String.h", pero sí puede incluir <string.h> para facilitar
 las comparaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5ODY5ODM4MSwxMzIwMjU1MDA3LDE1Nj
-k0OTI5MjUsNDA3ODk0NzU3LDE5MTM2MjE0MDYsLTc4NjI5NzQy
-NywtMTEyOTYxNjYxNiwtMTEzMDc3MjczNSw3ODY1NDUxMjgsLT
-QyNTY3MTA4MV19
+eyJoaXN0b3J5IjpbNzk2MjcxMDIwLDIwOTg2OTgzODEsMTMyMD
+I1NTAwNywxNTY5NDkyOTI1LDQwNzg5NDc1NywxOTEzNjIxNDA2
+LC03ODYyOTc0MjcsLTExMjk2MTY2MTYsLTExMzA3NzI3MzUsNz
+g2NTQ1MTI4LC00MjU2NzEwODFdfQ==
 -->
