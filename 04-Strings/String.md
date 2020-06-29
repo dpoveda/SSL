@@ -1,14 +1,11 @@
-# Especificación matemática de cada operación  :octocat:
+# Especificación matemática de cada operación  
 
 1. GetLength ó GetLongitud:  
 2. IsEmpty ó IsVacía  
-$\alpha, \beta, \gamma, \delta$
+
 3. Power ó Potenciar  
 
-
-
 4. Una operación a definir libremente.  
-
 
 
 
