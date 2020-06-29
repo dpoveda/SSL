@@ -1,6 +1,6 @@
 # Especificación matemática de cada operación  
 
-1. GetLength ó GetLongitud:  $\Sigma_{a}^{b} x^2 dx$
+## GetLength ó GetLongitud:  
 $$\Sigma^*->\mathbb N_0/\left\{\begin{array} {r}
 					                               0,  && s=\lambda    \\
 				             1+GetLength(t),&& s=h.t&\land& h\in\Sigma\\
@@ -38,7 +38,7 @@ $$
 $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 $$
-
+$\Sigma_{a}^{b} x^2 dx$
 
 
 
@@ -56,7 +56,7 @@ cual no debe incluir <string.h>. El programa que prueba la biblioteca, por
 supuesto, incluye a "String.h", pero sí puede incluir <string.h> para facilitar
 las comparaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzYyMTQwNiwtNzg2Mjk3NDI3LC0xMT
-I5NjE2NjE2LC0xMTMwNzcyNzM1LDc4NjU0NTEyOCwtNDI1Njcx
-MDgxXX0=
+eyJoaXN0b3J5IjpbLTEwNTk2MjMyMDUsMTkxMzYyMTQwNiwtNz
+g2Mjk3NDI3LC0xMTI5NjE2NjE2LC0xMTMwNzcyNzM1LDc4NjU0
+NTEyOCwtNDI1NjcxMDgxXX0=
 -->
