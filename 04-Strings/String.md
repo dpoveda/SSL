@@ -2,8 +2,8 @@
 
 1. GetLength ó GetLongitud:  
 2. IsEmpty ó IsVacía  
-
-
+$\alpha, \beta, \gamma, \delta$  
+$$f\left(k\right) = \binom{n}{k} p^k\left(1-p\right)^{n-k}$$ 
 
 3. Power ó Potenciar  
 
