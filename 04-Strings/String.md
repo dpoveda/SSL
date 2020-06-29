@@ -43,7 +43,7 @@ $$\begin{array}
 \end{array}
 $$
 
-
+$A = \pi*r^{2}$ 
 $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 $$
@@ -65,8 +65,8 @@ cual no debe incluir <string.h>. El programa que prueba la biblioteca, por
 supuesto, incluye a "String.h", pero sí puede incluir <string.h> para facilitar
 las comparaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMDI1NTAwNywxNTY5NDkyOTI1LDQwNz
-g5NDc1NywxOTEzNjIxNDA2LC03ODYyOTc0MjcsLTExMjk2MTY2
-MTYsLTExMzA3NzI3MzUsNzg2NTQ1MTI4LC00MjU2NzEwODFdfQ
-==
+eyJoaXN0b3J5IjpbMTM3MTkxNjQsMTMyMDI1NTAwNywxNTY5ND
+kyOTI1LDQwNzg5NDc1NywxOTEzNjIxNDA2LC03ODYyOTc0Mjcs
+LTExMjk2MTY2MTYsLTExMzA3NzI3MzUsNzg2NTQ1MTI4LC00Mj
+U2NzEwODFdfQ==
 -->
