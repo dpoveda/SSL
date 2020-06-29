@@ -26,11 +26,11 @@ $$Equal:\Sigma^*\mathbf{x}\Sigma^*\rightarrow B/Equal(s,n)=\left\{\begin{array} 
 													\end{array} \right. $$
 
 
-
+s
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk3NTA0OTY0LDI0MzI1MTAxOSw3OTYyNz
-EwMjAsMjA5ODY5ODM4MSwxMzIwMjU1MDA3LDE1Njk0OTI5MjUs
-NDA3ODk0NzU3LDE5MTM2MjE0MDYsLTc4NjI5NzQyNywtMTEyOT
-YxNjYxNiwtMTEzMDc3MjczNSw3ODY1NDUxMjgsLTQyNTY3MTA4
-MV19
+eyJoaXN0b3J5IjpbLTI3MzE1NDQzNSw3OTc1MDQ5NjQsMjQzMj
+UxMDE5LDc5NjI3MTAyMCwyMDk4Njk4MzgxLDEzMjAyNTUwMDcs
+MTU2OTQ5MjkyNSw0MDc4OTQ3NTcsMTkxMzYyMTQwNiwtNzg2Mj
+k3NDI3LC0xMTI5NjE2NjE2LC0xMTMwNzcyNzM1LDc4NjU0NTEy
+OCwtNDI1NjcxMDgxXX0=
 -->
