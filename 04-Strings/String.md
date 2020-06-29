@@ -8,6 +8,10 @@ $$GetLength:\Sigma^*->\mathbb N_0/\left\{\begin{array} {r}
   
   
 2. IsEmpty ó IsVacía  
+$$IsEmpty:\Sigma^*->\mathbb N_0/\left\{\begin{array} {r}
+					                               0,  && s=\lambda    \\
+				             1+GetLength(t),&& s=h.t&\land& h\in\Sigma\\
+													\end{array} \right. $$
 
 4. Power ó Potenciar  
 
@@ -56,7 +60,7 @@ cual no debe incluir <string.h>. El programa que prueba la biblioteca, por
 supuesto, incluye a "String.h", pero sí puede incluir <string.h> para facilitar
 las comparaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxMTUzMDgzLDE5MTM2MjE0MDYsLTc4Nj
+eyJoaXN0b3J5IjpbODU0MDczNTA3LDE5MTM2MjE0MDYsLTc4Nj
 I5NzQyNywtMTEyOTYxNjYxNiwtMTEzMDc3MjczNSw3ODY1NDUx
 MjgsLTQyNTY3MTA4MV19
 -->
