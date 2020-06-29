@@ -17,8 +17,10 @@ $$IsEmpty:\Sigma^*\rightarrow B/IsEmpty(s)=\left\{\begin{array} {r}
 
 ## Una operación a definir libremente.   
 
+List item
+
 $(a,b); ]a,b[; \{a,b\}$
-$\tilde{S}, \overline{x}, \overline{X}, \hat{p},\land$,\rightarrow
+$\tilde{S}, \overline{x}, \overline{X}, \hat{p},\land,\rightarrow$
 $\left[\overline{X} -z_{1-\frac{\alpha}{2}} \frac{\sigma}{\sqrt{n}}, \overline{X}+z_{1-\frac{\alpha}{2}}\frac{\sigma}{\sqrt{n}} \right]$
 
 $\left[\overline{X} -z_{1-\frac{\alpha}{2}} \frac{\sigma}{\sqrt{n}}, \overline{X}+z_{1-\frac{\alpha}{2}}\frac{\sigma}{\sqrt{n}} \right\}$
@@ -60,7 +62,7 @@ cual no debe incluir <string.h>. El programa que prueba la biblioteca, por
 supuesto, incluye a "String.h", pero sí puede incluir <string.h> para facilitar
 las comparaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3MzAxODQ5LDQwNzg5NDc1NywxOTEzNj
-IxNDA2LC03ODYyOTc0MjcsLTExMjk2MTY2MTYsLTExMzA3NzI3
-MzUsNzg2NTQ1MTI4LC00MjU2NzEwODFdfQ==
+eyJoaXN0b3J5IjpbMjA3NDA0MTExNCw0MDc4OTQ3NTcsMTkxMz
+YyMTQwNiwtNzg2Mjk3NDI3LC0xMTI5NjE2NjE2LC0xMTMwNzcy
+NzM1LDc4NjU0NTEyOCwtNDI1NjcxMDgxXX0=
 -->
