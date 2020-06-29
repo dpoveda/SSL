@@ -14,7 +14,7 @@ $$IsEmpty:\Sigma^*\rightarrow B/IsEmpty(s)=\left\{\begin{array} {r}
 													\end{array} \right. $$
 
 ## Power ó Potenciar  
-$$Power:\Sigma^*\rightarrow\mathbb N_0/GetLength(s)=\left\{\begin{array} {r}
+$$Power:\Sigma^*X\mathbb N_0\rightarrow\mathbb N_0/GetLength(s)=\left\{\begin{array} {r}
 					                               0,  && s=\lambda    \\
 				             1+GetLength(t),&& s=h.t&\land& h\in\Sigma\\
 													\end{array} \right. $$
@@ -65,7 +65,7 @@ cual no debe incluir <string.h>. El programa que prueba la biblioteca, por
 supuesto, incluye a "String.h", pero sí puede incluir <string.h> para facilitar
 las comparaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTI4NTc0MiwxNTY5NDkyOTI1LDQwNz
+eyJoaXN0b3J5IjpbLTI4MTE2NTQ0NSwxNTY5NDkyOTI1LDQwNz
 g5NDc1NywxOTEzNjIxNDA2LC03ODYyOTc0MjcsLTExMjk2MTY2
 MTYsLTExMzA3NzI3MzUsNzg2NTQ1MTI4LC00MjU2NzEwODFdfQ
 ==
