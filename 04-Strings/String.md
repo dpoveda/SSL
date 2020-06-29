@@ -8,7 +8,7 @@ $$\Sigma^*->\mathbb N_0/\{\begin{array} {r}
 
 $(a,b); ]a,b[; \{a,b\}$
 $\left[\overline{X} -z_{1-\frac{\alpha}{2}} \frac{\sigma}{\sqrt{n}}, \overline{X}+z_{1-\frac{\alpha}{2}}\frac{\sigma}{\sqrt{n}} \right]$
-
+$$ \left\{ \begin{array}{ll} 123 & 4 \\ 1 & 234 \mbox{ dato atípico} \end{array} \right. $$
 $`H_{0}: \mu=\mu_0$` contra la alternativa bilateral `$H_1: \mu\neq\mu_0`$
 $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$
 $\mathbb N$
@@ -16,7 +16,7 @@ $$a \pm b$$
 $$\begin{array}
 {r}
 1tjgj\\
- \\
+ fdfd\\
 \end{array}
 $$
 
@@ -46,6 +46,6 @@ cual no debe incluir <string.h>. El programa que prueba la biblioteca, por
 supuesto, incluye a "String.h", pero sí puede incluir <string.h> para facilitar
 las comparaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg4MzQ0ODMyLC0xMTI5NjE2NjE2LC0xMT
-MwNzcyNzM1LDc4NjU0NTEyOCwtNDI1NjcxMDgxXX0=
+eyJoaXN0b3J5IjpbLTE5OTcxOTE2NTksLTExMjk2MTY2MTYsLT
+ExMzA3NzI3MzUsNzg2NTQ1MTI4LC00MjU2NzEwODFdfQ==
 -->
