@@ -7,7 +7,7 @@ $$\Sigma^*->\mathbb N_0/\left\{\begin{array} {r}
 													\end{array} \right. $$
 
 $(a,b); ]a,b[; \{a,b\}$
-`$\tilde{S}, \overline{x}, \overline{X}, \hat{p}$`
+$\tilde{S}, \overline{x}, \overline{X}, \hat{p}$
 $\left[\overline{X} -z_{1-\frac{\alpha}{2}} \frac{\sigma}{\sqrt{n}}, \overline{X}+z_{1-\frac{\alpha}{2}}\frac{\sigma}{\sqrt{n}} \right]$
 
 $\left[\overline{X} -z_{1-\frac{\alpha}{2}} \frac{\sigma}{\sqrt{n}}, \overline{X}+z_{1-\frac{\alpha}{2}}\frac{\sigma}{\sqrt{n}} \right\}$
@@ -53,7 +53,7 @@ cual no debe incluir <string.h>. El programa que prueba la biblioteca, por
 supuesto, incluye a "String.h", pero sí puede incluir <string.h> para facilitar
 las comparaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODYwOTgwNDQsLTc4NjI5NzQyNywtMT
-EyOTYxNjYxNiwtMTEzMDc3MjczNSw3ODY1NDUxMjgsLTQyNTY3
-MTA4MV19
+eyJoaXN0b3J5IjpbNzg4NjUzMDg4LC03ODYyOTc0MjcsLTExMj
+k2MTY2MTYsLTExMzA3NzI3MzUsNzg2NTQ1MTI4LC00MjU2NzEw
+ODFdfQ==
 -->
