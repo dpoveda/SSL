@@ -1,7 +1,11 @@
 # Especificación matemática de cada operación  
 
 1. GetLength ó GetLongitud:  $\Sigma_{a}^{b} x^2 dx$
-$$\Sigma^*->\mathbb N_0/\{hghgh  $$
+$$\Sigma^*->\mathbb N_0/\{\begin{array}
+{r}
+1tjgj\\
+ \\
+\end{array}  $$
 
 $(a,b); ]a,b[; \{a,b\}$
 $\left[\overline{X} -z_{1-\frac{\alpha}{2}} \frac{\sigma}{\sqrt{n}}, \overline{X}+z_{1-\frac{\alpha}{2}}\frac{\sigma}{\sqrt{n}} \right]$
@@ -11,10 +15,9 @@ $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$
 $\mathbb N$
 $$a \pm b$$
 $$\begin{array}
-{rr}
-1 & 2 & 3 \\
-4 & 5 & 6 \\
-7 & 8 & 9
+{r}
+1tjgj\\
+ \\
 \end{array}
 $$
 
@@ -44,6 +47,6 @@ cual no debe incluir <string.h>. El programa que prueba la biblioteca, por
 supuesto, incluye a "String.h", pero sí puede incluir <string.h> para facilitar
 las comparaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTU1NTEwMTYsLTExMjk2MTY2MTYsLT
-ExMzA3NzI3MzUsNzg2NTQ1MTI4LC00MjU2NzEwODFdfQ==
+eyJoaXN0b3J5IjpbMjA1Njc2NDM1NywtMTEyOTYxNjYxNiwtMT
+EzMDc3MjczNSw3ODY1NDUxMjgsLTQyNTY3MTA4MV19
 -->
