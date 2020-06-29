@@ -22,6 +22,14 @@ $$Power:\Sigma^*X\mathbb N_0\rightarrow\Sigma^*/Power(s,n)=\left\{\begin{array} 
 ## Una operación a definir libremente.   
 
 
+$$\mathbf{x} = \left[\begin{array}
+{rrr}
+1 & 2 & 3 \\
+4 & 5 & 6 \\
+7 & 8 & 9
+\end{array}\right]
+$$
+```
 $(a,b); ]a,b[; \{a,b\}$
 $\tilde{S}, \overline{x}, \overline{X}, \hat{p},\land,\rightarrow$
 $\left[\overline{X} -z_{1-\frac{\alpha}{2}} \frac{\sigma}{\sqrt{n}}, \overline{X}+z_{1-\frac{\alpha}{2}}\frac{\sigma}{\sqrt{n}} \right]$
@@ -67,7 +75,7 @@ cual no debe incluir <string.h>. El programa que prueba la biblioteca, por
 supuesto, incluye a "String.h", pero sí puede incluir <string.h> para facilitar
 las comparaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NjM0OTAyMCwxMzIwMjU1MDA3LDE1Nj
+eyJoaXN0b3J5IjpbMTg3ODAxMjYzOSwxMzIwMjU1MDA3LDE1Nj
 k0OTI5MjUsNDA3ODk0NzU3LDE5MTM2MjE0MDYsLTc4NjI5NzQy
 NywtMTEyOTYxNjYxNiwtMTEzMDc3MjczNSw3ODY1NDUxMjgsLT
 QyNTY3MTA4MV19
