@@ -1,8 +1,7 @@
 # Especificación matemática de cada operación  
 
 1. GetLength ó GetLongitud:  $\sigma_{a}^{b} x^2 dx$
-<![endif]--> <![if !msEquation]><![if !vml]>![](file:///C:/Users/LENOVO~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)<![endif]><![endif]>
-2. IsEmpty ó IsVacía  
+$$$$
 
 3. Power ó Potenciar  
 
@@ -25,5 +24,5 @@ cual no debe incluir <string.h>. El programa que prueba la biblioteca, por
 supuesto, incluye a "String.h", pero sí puede incluir <string.h> para facilitar
 las comparaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzMwMTc3NzMsLTQyNTY3MTA4MV19
+eyJoaXN0b3J5IjpbNzg2NTQ1MTI4LC00MjU2NzEwODFdfQ==
 -->
