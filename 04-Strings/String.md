@@ -1,9 +1,6 @@
 # Especificación matemática de cada operación  
 
-1. GetLength ó GetLongitud:  
-<![endif]-->
-
-$\int_{a}^{b} x^2 dx$
+1. GetLength ó GetLongitud:  $\sigma_{a}^{b} x^2 dx$
 2. IsEmpty ó IsVacía  
 
 3. Power ó Potenciar  
@@ -27,5 +24,5 @@ cual no debe incluir <string.h>. El programa que prueba la biblioteca, por
 supuesto, incluye a "String.h", pero sí puede incluir <string.h> para facilitar
 las comparaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0MzUxNTQwXX0=
+eyJoaXN0b3J5IjpbLTQyNTY3MTA4MV19
 -->
