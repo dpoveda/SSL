@@ -1,7 +1,7 @@
 # Especificación matemática de cada operación  
 
 1. GetLength ó GetLongitud:  $\Sigma_{a}^{b} x^2 dx$
-$$\Sigma^*->\mathbb N_{0}/\{\leftd\right$$
+$$\Sigma^*->\mathbb N_{0}/\{hghgh  $$
 
 $(a,b); ]a,b[; \{a,b\}$
 $\left[\overline{X} -z_{1-\frac{\alpha}{2}} \frac{\sigma}{\sqrt{n}}, \overline{X}+z_{1-\frac{\alpha}{2}}\frac{\sigma}{\sqrt{n}} \right]$
@@ -29,6 +29,6 @@ cual no debe incluir <string.h>. El programa que prueba la biblioteca, por
 supuesto, incluye a "String.h", pero sí puede incluir <string.h> para facilitar
 las comparaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjA1MzUyMTIsLTExMjk2MTY2MTYsLT
-ExMzA3NzI3MzUsNzg2NTQ1MTI4LC00MjU2NzEwODFdfQ==
+eyJoaXN0b3J5IjpbLTI5ODQwNzc5MSwtMTEyOTYxNjYxNiwtMT
+EzMDc3MjczNSw3ODY1NDUxMjgsLTQyNTY3MTA4MV19
 -->
