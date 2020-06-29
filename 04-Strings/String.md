@@ -4,6 +4,9 @@
 $$\Sigma^*-> N_{0}/$$
 
 $(a,b); ]a,b[; \{a,b\}$
+$\left[\overline{X} -z_{1-\frac{\alpha}{2}} \frac{\sigma}{\sqrt{n}}, \overline{X}+z_{1-\frac{\alpha}{2}}\frac{\sigma}{\sqrt{n}} \right]$
+$\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$
+
 3. Power ó Potenciar  
 
 4. Una operación a definir libremente.   
@@ -25,6 +28,6 @@ cual no debe incluir <string.h>. El programa que prueba la biblioteca, por
 supuesto, incluye a "String.h", pero sí puede incluir <string.h> para facilitar
 las comparaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjk2MTY2MTYsLTExMzA3NzI3MzUsNz
-g2NTQ1MTI4LC00MjU2NzEwODFdfQ==
+eyJoaXN0b3J5IjpbMTc2ODcyMDQzMiwtMTEyOTYxNjYxNiwtMT
+EzMDc3MjczNSw3ODY1NDUxMjgsLTQyNTY3MTA4MV19
 -->
