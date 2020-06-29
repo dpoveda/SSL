@@ -19,11 +19,28 @@ $$Power:\Sigma^*\mathbf{x}\mathbb N_0\rightarrow\Sigma^*/Power(s,n)=\left\{\begi
 				             s . Power(s, n-1),&&n>0\\
 													\end{array} \right. $$
 
-## Una operación a definir libremente.   
-$$Power:\Sigma^*\mathbf{x}\mathbb N_0\rightarrow B/Power(s,n)=\left\{\begin{array} {r}
-					                               \lambda,  && s=\lambda&\lor&n=0   \\
-				             s . Power(s, n-1),&&n>0\\
+## Equal  
+$$Equal:\Sigma^*\mathbf{x}\Sigma^*\rightarrow B/Equal(s,n)=\left\{\begin{array} {r}
+					                               True,  && s=n    \\
+				             False,&& s\neq n\\
 													\end{array} \right. $$
+
+
+  
+  
+5. Parte II — Biblioteca para el Tipo String: Desarrollar una biblioteca con las
+siguientes operaciones de strings:
+a. GetLength ó GetLongitud
+b. IsEmpty ó IsVacía
+c. Power ó Potenciar
+d. Una operación a definir libremente.
+Notar que en vez de la operación concatenar que propone [MUCH2012] se
+debe desarrollar Power ó Potenciar que repite un string n veces.
+La parte pública de la biblioteca se desarrolla en el header "String.h", el
+cual no debe incluir <string.h>. El programa que prueba la biblioteca, por
+supuesto, incluye a "String.h", pero sí puede incluir <string.h> para facilitar
+las comparaciones.
+
 
 $$\mathbf{x} = \left[\begin{array}
 {rrr}
@@ -65,21 +82,9 @@ $\Sigma_{a}^{b} x^2 dx$
 
 
 
-5. Parte II — Biblioteca para el Tipo String: Desarrollar una biblioteca con las
-siguientes operaciones de strings:
-a. GetLength ó GetLongitud
-b. IsEmpty ó IsVacía
-c. Power ó Potenciar
-d. Una operación a definir libremente.
-Notar que en vez de la operación concatenar que propone [MUCH2012] se
-debe desarrollar Power ó Potenciar que repite un string n veces.
-La parte pública de la biblioteca se desarrolla en el header "String.h", el
-cual no debe incluir <string.h>. El programa que prueba la biblioteca, por
-supuesto, incluye a "String.h", pero sí puede incluir <string.h> para facilitar
-las comparaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2MjcxMDIwLDIwOTg2OTgzODEsMTMyMD
-I1NTAwNywxNTY5NDkyOTI1LDQwNzg5NDc1NywxOTEzNjIxNDA2
-LC03ODYyOTc0MjcsLTExMjk2MTY2MTYsLTExMzA3NzI3MzUsNz
-g2NTQ1MTI4LC00MjU2NzEwODFdfQ==
+eyJoaXN0b3J5IjpbMjQzMjUxMDE5LDc5NjI3MTAyMCwyMDk4Nj
+k4MzgxLDEzMjAyNTUwMDcsMTU2OTQ5MjkyNSw0MDc4OTQ3NTcs
+MTkxMzYyMTQwNiwtNzg2Mjk3NDI3LC0xMTI5NjE2NjE2LC0xMT
+MwNzcyNzM1LDc4NjU0NTEyOCwtNDI1NjcxMDgxXX0=
 -->
