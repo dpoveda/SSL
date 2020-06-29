@@ -1,21 +1,21 @@
 # Especificación matemática de operaciones con strings :octocat:  
 
 ## GetLength ó GetLongitud:  
-$$GetLength:\Sigma^*->\mathbb N_0/\left\{\begin{array} {r}
+$$GetLength:\Sigma^*->\mathbb N_0/GetLength(s)=\left\{\begin{array} {r}
 					                               0,  && s=\lambda    \\
 				             1+GetLength(t),&& s=h.t&\land& h\in\Sigma\\
 													\end{array} \right. $$
   
   
-2. IsEmpty ó IsVacía  
-$$IsEmpty:\Sigma^*->\mathbb N_0/\left\{\begin{array} {r}
-					                               0,  && s=\lambda    \\
-				             1+GetLength(t),&& s=h.t&\land& h\in\Sigma\\
+## IsEmpty ó IsVacía  
+$$IsEmpty:\Sigma^*->B/IsEmpty(s)=\left\{\begin{array} {r}
+					                               True,  && s=\lambda    \\
+				             False,&& s\neq\lambda\\
 													\end{array} \right. $$
 
-4. Power ó Potenciar  
+## Power ó Potenciar  
 
-5. Una operación a definir libremente.   
+## Una operación a definir libremente.   
 
 $(a,b); ]a,b[; \{a,b\}$
 $\tilde{S}, \overline{x}, \overline{X}, \hat{p},\land$
@@ -60,7 +60,7 @@ cual no debe incluir <string.h>. El programa que prueba la biblioteca, por
 supuesto, incluye a "String.h", pero sí puede incluir <string.h> para facilitar
 las comparaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0MDczNTA3LDE5MTM2MjE0MDYsLTc4Nj
+eyJoaXN0b3J5IjpbNDA3ODk0NzU3LDE5MTM2MjE0MDYsLTc4Nj
 I5NzQyNywtMTEyOTYxNjYxNiwtMTEzMDc3MjczNSw3ODY1NDUx
 MjgsLTQyNTY3MTA4MV19
 -->
