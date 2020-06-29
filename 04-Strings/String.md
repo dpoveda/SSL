@@ -1,4 +1,4 @@
-# Especificación matemática de operaciones con strings :octocat:  
+# Especificación matemática de operaciones con strings 
 
 ## GetLength ó GetLongitud:  
 $$GetLength:\Sigma^*->\mathbb N_0/GetLength(s)=\left\{\begin{array} {r}
@@ -60,7 +60,7 @@ cual no debe incluir <string.h>. El programa que prueba la biblioteca, por
 supuesto, incluye a "String.h", pero sí puede incluir <string.h> para facilitar
 las comparaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3ODk0NzU3LDE5MTM2MjE0MDYsLTc4Nj
-I5NzQyNywtMTEyOTYxNjYxNiwtMTEzMDc3MjczNSw3ODY1NDUx
-MjgsLTQyNTY3MTA4MV19
+eyJoaXN0b3J5IjpbLTU4MTY0MzQyOCw0MDc4OTQ3NTcsMTkxMz
+YyMTQwNiwtNzg2Mjk3NDI3LC0xMTI5NjE2NjE2LC0xMTMwNzcy
+NzM1LDc4NjU0NTEyOCwtNDI1NjcxMDgxXX0=
 -->
