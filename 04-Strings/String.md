@@ -9,6 +9,14 @@ $\left[\overline{X} -z_{1-\frac{\alpha}{2}} \frac{\sigma}{\sqrt{n}}, \overline{X
 $`H_{0}: \mu=\mu_0$` contra la alternativa bilateral `$H_1: \mu\neq\mu_0`$
 $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$
 $\mathbb N$
+$$a \pm b$$
+$$\begin{array}
+{rr}
+1 & 2 & 3 \\
+4 & 5 & 6 \\
+7 & 8 & 9
+\end{array}
+$$
 
 
 $$
@@ -36,6 +44,6 @@ cual no debe incluir <string.h>. El programa que prueba la biblioteca, por
 supuesto, incluye a "String.h", pero sí puede incluir <string.h> para facilitar
 las comparaciones.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3NDM1MTkzLC0xMTI5NjE2NjE2LC0xMT
-MwNzcyNzM1LDc4NjU0NTEyOCwtNDI1NjcxMDgxXX0=
+eyJoaXN0b3J5IjpbLTE4MTU1NTEwMTYsLTExMjk2MTY2MTYsLT
+ExMzA3NzI3MzUsNzg2NTQ1MTI4LC00MjU2NzEwODFdfQ==
 -->
