@@ -26,6 +26,3 @@ $$Equal:\Sigma^*\mathbf{x}\Sigma^*\rightarrow B/Equal(s,n)=\left\{\begin{array} 
 													\end{array} \right. $$
 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDU1OTQ2Nl19
--->
