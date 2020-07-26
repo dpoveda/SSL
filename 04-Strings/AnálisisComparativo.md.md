@@ -9,7 +9,3 @@ En java sin embargo, existe el tipo de dato String el cual es una cadena de cara
 ~~~
 String miNombre = "Daniela Poveda";
 ~~~
- 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwODk4OTUwMV19
--->
