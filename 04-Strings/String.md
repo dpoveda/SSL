@@ -2,9 +2,8 @@
 
 ## GetLength ó GetLongitud:  
 $$GetLength:\Sigma^*\rightarrow\mathbb N_0/GetLength(s)=\left\{\begin{array} {r}
-					                               0,  && s=\lambda    \\
-				             1+GetLength(t),&& s=h.t&\land& h\in\Sigma\\
-													\end{array} \right. $$
+0,  && s=\lambda    \\
+1+GetLength(t),&& s=h.t&\land& h\in\Sigma\end{array} \right. $$
   
   
 ## IsEmpty ó IsVacía  
@@ -24,3 +23,6 @@ $$Equal:\Sigma^*\mathbf{x}\Sigma^*\rightarrow B/Equal(s,n)=\left\{\begin{array} 
 					                               True,  && s=n    \\
 				             False,&& s\neq n\\
 													\end{array} \right. $$
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ4MDAyMTM2OF19
+-->
