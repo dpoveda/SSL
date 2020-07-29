@@ -23,3 +23,5 @@ $$Equal:\Sigma^*\mathbf{x}\Sigma^*\rightarrow B/Equal(s,n)=\left\{\begin{array} 
 					                               True,  && s=n    \\
 				             False,&& s\neq n\\
 													\end{array} \right. $$
+
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
