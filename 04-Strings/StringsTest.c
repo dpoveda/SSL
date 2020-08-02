@@ -7,7 +7,7 @@ Poveda Daniela Andrea
 
 
 #include <stdio.h>
-#include <assert.h>
+#include <assert.h> //incluyo esta directiva para poder utilizar la funcion assert
 #include "String.h"
 
 void GetLengthAssert();
