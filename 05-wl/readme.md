@@ -5,7 +5,7 @@ nl = nw = nc = 0.
 ~~~  
   
 Podemos observar que la notación es infija (simétrica), por lo tanto dibujamos el árbol de expresión en base a eso:  
-![jaaj](C:\Users\lenovoINTEL\Desktop\jaaj.png)  
+
 
 
 **b. Consigna:** Dibujar el árbol de expresión para la expresión de control del segundo if:
