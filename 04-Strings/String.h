@@ -14,7 +14,7 @@ bool IsEmpty(const char *); //poner * es igual que poner []
 //escribir precondicion y poscondicion de cada funcion
 size_t GetLength(const char *);
 //escribir precondicion y poscondicion de cada funcion
-char * Power(char *,size_t); //no se pone const porque se va a modificar
+char * Power(char *, size_t); //no se pone const porque se va a modificar
 //escribir precondicion y poscondicion de cada funcion
 bool Equal(const char *,const char *);
 
