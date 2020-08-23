@@ -1,25 +1,13 @@
 # Especificación matemática de operaciones con strings 
 
 ## GetLength ó GetLongitud:  
-$$GetLength:\Sigma^*\rightarrow\mathbb N_0/GetLength(s)=\left\{\begin{array} {r}
-0,  && s=\lambda    \\
-1+GetLength(t),&& s=h.t&\land& h\in\Sigma\end{array} \right. $$
+![Ecuacion1](https://user-images.githubusercontent.com/57077319/90968150-9d781300-e4bf-11ea-8972-1e90c8b70e3a.jpg)
    
 ## IsEmpty ó IsVacía  
-$$IsEmpty:\Sigma^*\rightarrow B/IsEmpty(s)=\left\{\begin{array} {r}
-True,  && s=\lambda    \\
-False,&& s\neq\lambda\\
-\end{array} \right. $$
+![Ecuacion2](https://user-images.githubusercontent.com/57077319/90968156-b08ae300-e4bf-11ea-8dc6-67b3517daed7.jpg)
 
 ## Power ó Potenciar  
-$$Power:\Sigma^*\mathbf{x}\mathbb N_0\rightarrow\Sigma^*/Power(s,n)=\left\{\begin{array} {r}
-\lambda,  && s=\lambda&\lor&n=0   \\
-s . Power(s, n-1),&&n>0\\
-\end{array} \right. $$
+![Ecuacion3](https://user-images.githubusercontent.com/57077319/90968162-c00a2c00-e4bf-11ea-8bb4-c5e8316c31c1.jpg)
 
 ## Equal   
-$$Equal:\Sigma^*\mathbf{x}\Sigma^*\rightarrow B/Equal(s,n)=\left\{\begin{array} {r}
-True,  && s=n    \\
-False,&& s\neq n\\
-\end{array} \right. $$
-
+![Ecuacion4](https://user-images.githubusercontent.com/57077319/90968169-cdbfb180-e4bf-11ea-9f34-5887e7db6f04.jpg)
