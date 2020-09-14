@@ -9,6 +9,7 @@ Sint
 
 Lex (ExpReg)
 	Adición: "+"
+    Multiplicacion: "*"
 	Número: DD*
 	D: [0-9]
 	Identificador: LL*
@@ -19,7 +20,8 @@ Parser()
 	
 Exp()
 	Algo();
-	Match(Adición);
+	Match(Adicion);
+    Match(Multiplicacion);
 	Algo();
 
 Algo()
